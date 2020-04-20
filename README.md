@@ -1,17 +1,17 @@
 # docker_l
 
-$ docker run -it knows1/lamp
+`$ docker run -it knows1/lamp`
 
-$ su knows1
+`$ su knows1`
 
-$ password for knows1: knows1
+`$ password for knows1: knows1`
 
-$sudo service apache2 start
+`$sudo service apache2 start`
 
-$ sudo service mysql start
+`$ sudo service mysql start`
 
-http://172.17.0.2/phpmyadmin/
+`http://172.17.0.2/phpmyadmin/`
 
-user : knows1
+`user : knows1`
 
-password : password
+`password : password`
